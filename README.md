@@ -14,7 +14,7 @@ The corresponding config files are in the configs folder.
 
 |Detector|Backbone|Dataset|mAP|Model|
 | :-------: | :-------: | :-------: | :-------: | :-------: |
-|YOLO9000|Darknet-19|VOC07|60.4|[Link](https://drive.google.com/file/d/1o2BRmPvTflfELPNnYGTtRDU8rApZWLg8/view?usp=sharing)|
+|YOLOv2|Darknet-19|VOC07|60.4|[Link](https://drive.google.com/file/d/1o2BRmPvTflfELPNnYGTtRDU8rApZWLg8/view?usp=sharing)|
 |SSD|vgg-16|VOC07+12|78.0|[Link](https://drive.google.com/file/d/1rI0NW0YMOx6oKxkLZ9CBoezWu0BTkn5r/view?usp=sharing)|
 
 ### New performance on MSCOCO 2017
@@ -29,6 +29,6 @@ The corresponding config files are in the configs folder.
 ## Installation and Usage
 
 Please refer to the following Code Link for corresponding requirements and usage:
-[YOLO9000](https://github.com/longcw/yolo2-pytorch), [SSD](https://github.com/amdegroot/ssd.pytorch), [FoveaBox](https://github.com/open-mmlab/mmdetection), [CenterNet](https://github.com/xingyizhou/CenterNet), [FreeAnchor](https://github.com/zhangxiaosong18/FreeAnchor). 
+[YOLOv2](https://github.com/longcw/yolo2-pytorch), [SSD](https://github.com/amdegroot/ssd.pytorch), [FoveaBox](https://github.com/open-mmlab/mmdetection), [CenterNet](https://github.com/xingyizhou/CenterNet), [FreeAnchor](https://github.com/zhangxiaosong18/FreeAnchor). 
 **Note that according to the Linear [Scaling Rule](https://arxiv.org/abs/1706.02677), you need to set the learning rate proportional to the batch size if you use different GPUs or images per GPU.**
 
