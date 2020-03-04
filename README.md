@@ -14,17 +14,17 @@ The corresponding config files are in the configs folder.
 
 |Detector|Backbone|Dataset|mAP|Model|
 | :-------: | :-------: | :-------: | :-------: | :-------: |
-|YOLOv2|Darknet-19|VOC07|60.4|[Link](https://drive.google.com/file/d/1o2BRmPvTflfELPNnYGTtRDU8rApZWLg8/view?usp=sharing)|
-|SSD|vgg-16|VOC07+12|78.0|[Link](https://drive.google.com/file/d/1rI0NW0YMOx6oKxkLZ9CBoezWu0BTkn5r/view?usp=sharing)|
+|YOLOv2|Darknet-19|VOC07|60.4|[Link](https://drive.google.com/file/d/1MUCV6nqMA-SNc70wPraY415BAsRhn33N/view?usp=sharing)|
+|SSD|vgg-16|VOC07+12|78.0|[Link](https://drive.google.com/file/d/1gZzcAnR7lE17vD2PdzyjZCyfAp-8mKBX/view?usp=sharing)|
 
 ### New performance on MSCOCO 2017
 
 |Detector|Backbone|Multi-scalet<br> testing|AP(test-dev)|Model|
 | :-------: | :-------: | :-------: | :-------: | :-------: |
-|FoveaBox|ResNet-50|N|37.6|[Link](https://drive.google.com/file/d/15EADtUjvBTwxrqAzVcu8R10hslkZSUMK/view?usp=sharing)|
-|FreeAnchor|ResNet-50|N|39.6|[Link](https://drive.google.com/file/d/1OzfBEi4oxIWA6Yvz9KLd5vogqHZIvbdt/view?usp=sharing)|
+|FoveaBox|ResNet-50|N|37.6|[Link](https://drive.google.com/file/d/1lg2M2UNbfX6_CrOIEEzoOztxi_s0VncT/view?usp=sharing)|
+|FreeAnchor|ResNet-50|N|39.6|[Link](https://drive.google.com/file/d/1QAyLSQ2KjqPecdme6QDgHWXSE7d5xx0v/view?usp=sharing)|
 |CenterNet|Hourglass-104|Y|45.8|Link|
-|FreeAnchor|ResNeXt-101|Y|47.9|[Link](https://drive.google.com/file/d/1wXPE2Pc9GrWcg9O-K_ZhMWK4bo2vwAEK/view?usp=sharing)|
+|FreeAnchor|ResNeXt-101|Y|47.9|[Link](https://drive.google.com/file/d/1tMqB41wAq4bd87emnavyyiIPvQJJL8mP/view?usp=sharing)|
 
 ## Installation and Usage
 
