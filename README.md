@@ -23,7 +23,7 @@ The corresponding config files are in the configs folder.
 | :-------: | :-------: | :-------: | :-------: | :-------: |
 |FoveaBox|ResNet-50|N|37.6|[Link](https://drive.google.com/file/d/1lg2M2UNbfX6_CrOIEEzoOztxi_s0VncT/view?usp=sharing)|
 |FreeAnchor|ResNet-50|N|39.6|[Link](https://drive.google.com/file/d/1QAyLSQ2KjqPecdme6QDgHWXSE7d5xx0v/view?usp=sharing)|
-|CenterNet|Hourglass-104|Y|45.8|Link|
+|CenterNet|Hourglass-104|Y|45.8|[Link](https://drive.google.com/file/d/1D6h1SkwAveSU0_NeAKlRVWACQ_NDpGiG/view?usp=sharing)|
 |FreeAnchor|ResNeXt-101|Y|47.9|[Link](https://drive.google.com/file/d/1tMqB41wAq4bd87emnavyyiIPvQJJL8mP/view?usp=sharing)|
 
 ## Installation and Usage
